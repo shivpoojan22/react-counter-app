@@ -13,4 +13,7 @@ Check out the live version of the app here: [Counter App Live Demo](https://shiv
 1. Frontend: React.js, CSS
 1. Version Control: Git and GitHub
 
+# App Screenshot
+
+Below is a screenshot of the Counter App:
 ![Screenshot 2024-11-29 173217](https://github.com/user-attachments/assets/db789941-017d-45a5-91e6-08bec5ecef9d)
