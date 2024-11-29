@@ -12,3 +12,5 @@ Check out the live version of the app here: [Counter App Live Demo](https://shiv
 # Technologies Used
 1. Frontend: React.js, CSS
 1. Version Control: Git and GitHub
+
+![Counter App Screenshot](https://shivpoojan22.github.io/react-counter-app/assets/images/counterapp-screenshot.png)
